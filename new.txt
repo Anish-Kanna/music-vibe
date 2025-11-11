@@ -1,13 +1,2 @@
-hello maris wsg
-<<<<<<< HEAD
+new clean text file to chat. no mo pujith twink shi
 
-
-
-pujuth is a fucking twink
-=======
-wsg gng 
-<<<<<<< HEAD
-wassup
-=======
->>>>>>> upstream/master
->>>>>>> 9a9a818c4ff9df83242be24e3668ae6d9ac6aae1
