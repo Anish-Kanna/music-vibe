@@ -1,0 +1,2 @@
+filepath,mel_path,genre,tempo_bpm,spectral_centroid_mean,duration_seconds,sr,n_mels
+data/genres_original/blues/blues.00000.wav,data/mels/blues/blues.00000.npy,blues,120.0,2500.0,10.0,22050,128
